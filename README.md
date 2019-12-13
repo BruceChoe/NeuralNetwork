@@ -1,5 +1,5 @@
 # Neural Network Project
-Authors: Bruce Choe, Daniel Enriquez, Michael Stepzinski?, Erik Marsh?
+  Authors: Bruce Choe, Daniel Enriquez, Michael Stepzinski?, Erik Marsh?
 ----
 Goal: Create a Natural Language Processing (NLP) System to perform sentiment analysis on finanacial earning calls. 
 
