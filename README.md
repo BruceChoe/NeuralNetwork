@@ -1,6 +1,6 @@
 # Neural Network Project
 ###  Authors: Bruce Choe, Daniel Enriquez, Michael Stepzinski?, Erik Marsh?
-----
+
 Goal: Create a Natural Language Processing (NLP) System to perform sentiment analysis on finanacial earning calls. 
 
 See if sentiment of earning calls can reasonably predict company performance, compare results to historical data. 
