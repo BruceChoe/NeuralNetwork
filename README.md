@@ -1,5 +1,5 @@
 # Neural Network Project
-Authors: Bruce Choe, Daniel Enriquez, Michael Stepzinski?, Erik Marsh, Gage Christensen 
+Authors: Bruce Choe, Daniel Enriquez, Erik Marsh, Gage Christensen 
 
 ### Goal: Create a Natural Language Processing (NLP) System to perform sentiment analysis on finanacial earning calls. 
 
